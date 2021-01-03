@@ -6,16 +6,10 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello World! My name is Daniel Ziegler and I am an aspiring software developer. I will graduate from Gettysburg College in May 2021 with a B.S. in Computer Science with minors in Data Science and Mathematics.
-       I am passionate about solving particularly difficult problems.
-  I have an experience of nearly 3 years working with LAMP stack, MERN stack
-    and ELK stack. Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks
-    is what Rolwin loves to do. Check my blog which I update every week for some Javascript and some
-    cool notes on web technologies.`,
-  paraTwo: `Currently I work mostly with Javascript technologies like ReactJS and NodeJS. I also
-    have hands on experience working with cloud infrastructures like <b>AWS/GCP</b> and have deployed applications
-    keeping scalability in mind. Docker, Kubernetes, Jenkins, SonarQube are some of the cool
-    tools I use for <b>CI/ CD</b>. I'm always a learner and a self taught programmer.`,
+  paraOne: `Howdy World! My name is Daniel Jacob Ziegler and I'm an aspiring Software Engineer from Pennsylvania. 
+  I will graduate from Gettysburg College in May 2021 with a B.S. in Computer Science with minors in Data Science and Mathematics.`,
+  paraTwo: `When I'm not behind the keyboard developing full-stack solutions or learning techniques for data analysis, I like spend time behind the turntables as an open format DJ and entrepreneur.
+  I am currently designing a donut food truck and learning new techniques for data visualization in Python. See my blog for more on the donutz!`,
 };
 
 const AboutMe = () => {
@@ -42,7 +36,7 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="Born and raised in"
-            textH3="Gettysburg, PA, USA"
+            textH3="Gettysburg, PA"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
