@@ -32,9 +32,10 @@ export default class Resume extends Component {
       <div>
         <SEO
           title="Resume"
-          description="My resume consists of my biodata of experience. You can hire me if you feel
-          I'm good for any position in your organization. I'm open to various challenges that come
-          in the way of building various web applications."
+          description="My resume consists of my relevant experience and education. You can hire me if you feel
+          I'm good for any position in your organization. I am fueled by challenges that come
+          in the way of building various web applications, analyzing and modeling data, or 
+          constructing solutions to particularly difficult problems."
           path="resume"
         />
         <Document

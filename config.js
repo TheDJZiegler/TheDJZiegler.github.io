@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '',
+  pathPrefix: '/TheDJZiegler.github.io',
   siteUrl: 'https://thedjziegler.github.io',
   siteTitle: 'Daniel J. Ziegler',
   siteDescription: 'Logbook of a software developer',
@@ -16,8 +16,9 @@ module.exports = {
   },
   social: {
     github: 'https://github.com/thedjziegler',
-    facebook: 'https://www.facebook.com/thedjziegler',
-    twitter: 'https://twitter.com/thedjziegler',
+    // facebook: 'https://www.facebook.com/thedjziegler',
+    // twitter: 'https://twitter.com/thedjziegler',
+    linkedin: 'https://www.linkedin.com/in/thedjziegler/',
     instagram: 'https://www.instagram.com/thedjziegler/',
     rss: '/rss.xml',
   },

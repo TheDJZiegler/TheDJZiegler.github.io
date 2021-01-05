@@ -12,7 +12,7 @@ import Config from '../../../../config';
 
 const { Content } = Layout;
 const {
-  facebook, github, instagram, twitter,
+  github, linkedin, instagram, 
 } = Config.social;
 
 const DomContent = () => (
@@ -28,9 +28,10 @@ const DomContent = () => (
       </div>
       <div className={`${style.badge} ${style.badgeGray}`}>Aspiring Software Engineer</div>
       <div className="centerAlign box">
-        <a href={facebook} target="_blank" label="button" rel="noopener noreferrer"><FA name="facebook-f" /></a>
-        <a href={twitter} target="_blank" label="button" rel="noopener noreferrer"><FA name="twitter" /></a>
+        {/* <a href={facebook} target="_blank" label="button" rel="noopener noreferrer"><FA name="facebook-f" /></a>
+        <a href={twitter} target="_blank" label="button" rel="noopener noreferrer"><FA name="twitter" /></a> */}
         <a href={github} target="_blank" label="button" rel="noopener noreferrer"><FA name="github" /></a>
+        <a href={linkedin} target="_blank" label="button" rel="noopener noreferrer"><FA name="linkedin-square" /></a>
         <a href={instagram} target="_blank" label="button" rel="noopener noreferrer"><FA name="instagram" /></a>
       </div>
       <ul className={`box ${style.badge} contactBlock`}>
