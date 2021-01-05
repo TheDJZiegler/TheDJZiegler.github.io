@@ -9,7 +9,7 @@ const pageText = {
   paraOne: `Hello World! My name is Daniel Jacob Ziegler and I'm an aspiring Software Engineer. 
   I will graduate from Gettysburg College in May 2021 with a B.S. in Computer Science with minors in Data Science and Mathematics. 
   I enjoy being challenged and pushed out of my comfort zone.`,
-  paraTwo: `When I'm not working behind the keyboard, I enjoy spending time as a mobile DJ and entrepreneur.
+  paraTwo: `When I'm not working behind the keyboard, I spend my free time as a mobile DJ and aspiring entrepreneur.
   I am currently designing a donut food truck and learning new techniques for data visualization in Python. Check out my blog for more!`,
 };
 
