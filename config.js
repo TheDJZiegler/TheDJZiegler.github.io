@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '',
+  pathPrefix: '/TheDJZiegler.github.io',
   siteUrl: 'https://thedjziegler.github.io',
   siteTitle: 'Daniel J. Ziegler',
   siteDescription: 'Logbook of a software developer',
