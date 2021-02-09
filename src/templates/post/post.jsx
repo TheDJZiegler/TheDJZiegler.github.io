@@ -31,8 +31,8 @@ const Post = ({ data }) => {
           title={title}
           description={excerpt}
           path={path}
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby', 'technology']}
-        />
+          keywords={['Daniel', 'Jacob', 'Ziegler', 'Software Engineer', 'Data Science','Java', 'ReactJS', 'Javascript', 'Python']}
+          />
         <Header />
         <SidebarWrapper>
           <div className="marginTopTitle">

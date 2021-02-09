@@ -13,7 +13,7 @@ const Contact = () => (
         description="You can contact me through the contact form on this page.
                     Find me on github - TheDJZiegler."
         path="/contact"
-        keywords={['Daniel', 'Jacob', 'Ziegler', 'Software Engineer', 'Java', 'ReactJS', 'Javascript', 'Python']}
+        keywords={['Daniel', 'Jacob', 'Ziegler', 'Software Engineer', 'Data Science','Java', 'ReactJS', 'Javascript', 'Python']}
       />
       <Header />
       <SidebarWrapper>
