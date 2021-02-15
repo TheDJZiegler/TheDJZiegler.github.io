@@ -17,4 +17,6 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **2.0 hrs** - Python Kaggle course - review 
 - [x] **4.0 hrs** - Kaggle Digit Recognizer - discussion readings
 
-#### Week 2 - 
+#### Week 2 - Getting Comfortable
+- [x] **2.0 hrs** - Python Kaggle course - review 
+- [x] **4.0 hrs** - VanderPlas Data Science Notebooks
