@@ -14,9 +14,15 @@ I am excited to share my progress in this very exciting course taught by the one
 
 #### Week 1 - Introduction and Kaggle Review
 - [x] **1.5 hrs** - Kaggle competition research
-- [x] **2.0 hrs** - Python Kaggle course - review 
-- [x] **4.0 hrs** - Kaggle Digit Recognizer - discussion readings
+- [x] **2.0 hrs** - Python Course - Kaggle (Lessons 1-4)
+- [x] **4.0 hrs** - Kaggle Digit Recognizer - discussion readings and overview
 
 #### Week 2 - Getting Comfortable
-- [x] **2.0 hrs** - Python Kaggle course - review 
-- [x] **4.0 hrs** - VanderPlas Data Science Notebooks
+- [x] **2.0 hrs** - Python Course - Kaggle (Lessons 5-7)
+- [x] **4.0 hrs** - VanderPlas Data Science Handbook - Chapter 05, 01-08
+
+#### Week 3 - Diving into Kaggle Digit Recognizer
+- [x] **1.0 hrs** - Python Course - Kaggle (Lesson 7, course completed)
+- [x] **3.0 hrs** - VanderPlas Data Science Handbook - Chapter 05 - 09-15
+- [x] **2.0 hrs** - Digit Recognizer discussion and code - Dimenstionality Reduction
+- [x] **2.0 hrs** - Digit Recognizer discussion and code - Convolutional Neural Network (CNN) Tutorial
