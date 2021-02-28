@@ -26,3 +26,9 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **3.0 hrs** - VanderPlas Data Science Handbook - Chapter 05 - 09-15
 - [x] **2.0 hrs** - Digit Recognizer discussion and code - Dimenstionality Reduction
 - [x] **2.0 hrs** - Digit Recognizer discussion and code - Convolutional Neural Network (CNN) Tutorial
+
+#### Week 4
+- [x] **2.5 hrs** - Intro to Deep Learning Course - Kaggle (Lessons 1-4)
+- [x] **2.0 hrs** - Digit Recognizer - Neural Network Tuning and Exploration
+- [x] **1.5 hrs** - Final Tuning and Prediction Submission
+- [x] **3.0 hrs** - Kaggle Competition Search (Long Term)
