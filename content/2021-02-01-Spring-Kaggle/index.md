@@ -29,6 +29,11 @@ I am excited to share my progress in this very exciting course taught by the one
 
 #### Week 4
 - [x] **2.5 hrs** - Intro to Deep Learning Course - Kaggle (Lessons 1-4)
-- [x] **2.0 hrs** - Digit Recognizer - Neural Network Tuning and Exploration
-- [x] **1.5 hrs** - Final Tuning and Prediction Submission
-- [x] **3.0 hrs** - Kaggle Competition Search (Long Term)
+- [x] **3.5 hrs** - Digit Recognizer - Neural Network Tuning and Predictions
+- [x] **3.0 hrs** - Kaggle Competition Search (long term) - leaning towards [Indoor Location \& Navigation](https://www.kaggle.com/c/indoor-location-navigation)
+
+#### Week 5
+- [x] **1.5 hrs** - Reflection - Machine Learning Self-Inventory
+- [x] **1.0 hrs** - Intro to Deep Learning Course - Kaggle (Lessons 5-6, course completed)
+
+
