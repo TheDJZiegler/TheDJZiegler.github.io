@@ -33,7 +33,9 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **3.0 hrs** - Kaggle Competition Search (long term) - leaning towards [Indoor Location \& Navigation](https://www.kaggle.com/c/indoor-location-navigation)
 
 #### Week 5
-- [x] **1.5 hrs** - Reflection - Machine Learning Self-Inventory
+- [x] **1.5 hrs** - Reflection - data science self-inventory
 - [x] **1.0 hrs** - Intro to Deep Learning Course - Kaggle (Lessons 5-6, course completed)
-
+- [x] **2.0 hrs** - Digit Recognizer - group study
+- [x] **4.0 hrs** - Machine Learning Explainability - Kaggle (Lessons 1-5, course completed)
+- [x] **2.0 hrs** - Indoor Location EDA
 
