@@ -39,3 +39,7 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **4.0 hrs** - Machine Learning Explainability - Kaggle (Lessons 1-5, course completed)
 - [x] **2.0 hrs** - Indoor Location EDA
 
+#### Week 6
+- [x] **1.0 hrs** - Kaggle API - setup and usage in jupyter notebooks
+- [x] **2.0 hrs** - Human Protein Atlas - discussion reading and notebook exploration
+
