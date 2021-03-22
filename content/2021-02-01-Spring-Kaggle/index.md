@@ -43,3 +43,7 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **1.0 hrs** - Kaggle API - setup and usage in jupyter notebooks
 - [x] **2.0 hrs** - Human Protein Atlas - discussion reading and notebook exploration
 
+#### Week 7
+- [x] **6.0 hrs** - VinBigData Chest X-ray Abnormalities - faster R-CNN approach overview
+- [x] **3.0 hrs** - Computer Vision Course = Kaggle (Lessons 1-5)
+
