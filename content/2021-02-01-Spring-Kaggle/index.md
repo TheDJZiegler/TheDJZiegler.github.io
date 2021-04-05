@@ -50,3 +50,6 @@ I am excited to share my progress in this very exciting course taught by the one
 #### Week 8
 - [x] **2.0 hrs** - Data Science Meetup with Gettysburg College Center for Career Engagement
 - [x] **1.0 hrs** - Computer Vision Course - Kaggle (Lessons 5-6, course completed)
+
+#### Week 9
+-[x] **1.5 hrs** - Human Protein Atlas - pipeline work
