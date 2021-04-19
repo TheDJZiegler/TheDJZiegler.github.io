@@ -59,3 +59,9 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **3.5 hrs** - Kaggle Exam - training different classifiers and testing submissions
 - [x] **2.5 hrs** - Kaggle Exam - downsampling and testing other methods
 - [x] **3.0 hrs** - Kaggle Exam - studying other simple methods and preparing other approaches
+
+#### Week 11
+- [x] **1.5 hrs** - Finish up Kaggle Exam 1 Competition and submitting code
+- [x] **1.0 hrs** - Look over HPA "Pro-Team" approach
+- [x] **1.0 hrs** - Examine current best approaches on Kaggle for HPA. Formulate questions/topics for discussion with team for week 12
+- [x] **1.5 hrs** - Birdcall Identification EDA and Review - new competition with one month to go
