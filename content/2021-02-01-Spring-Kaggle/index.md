@@ -65,3 +65,11 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **1.0 hrs** - Look over HPA "Pro-Team" approach
 - [x] **1.0 hrs** - Examine current best approaches on Kaggle for HPA. Formulate questions/topics for discussion with team for week 12
 - [x] **1.5 hrs** - Birdcall Identification EDA and Review - new competition with one month to go
+
+#### Week 12
+- [x] **2.0 hrs** HPA baseline approach and submission 
+- [x] **1.5 hrs** HPA approach model selection research - understanding included datasets and models for team improvements
+- [x] **4.0 hrs** Data Cleaning Course - Kaggle (Lessons 1-5, course completed)
+- [x] **4.0 hrs** Natural Language Processing - Kaggle (Lessons 1-3, course completed)
+- [x] **1.0 hrs** [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) competition overview and discussion readings
+- [x] **1.5 hrs** Examine current best approaches on Kaggle for Shopee. Copy and edit model ensemble for baseline submission.
