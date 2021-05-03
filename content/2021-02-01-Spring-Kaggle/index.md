@@ -67,9 +67,18 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **1.5 hrs** - Birdcall Identification EDA and Review - new competition with one month to go
 
 #### Week 12
-- [x] **2.0 hrs** HPA baseline approach and submission 
-- [x] **1.5 hrs** HPA approach model selection research - understanding included datasets and models for team improvements
-- [x] **4.0 hrs** Data Cleaning Course - Kaggle (Lessons 1-5, course completed)
-- [x] **4.0 hrs** Natural Language Processing - Kaggle (Lessons 1-3, course completed)
-- [x] **1.0 hrs** [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) competition overview and discussion readings
-- [x] **1.5 hrs** Examine current best approaches on Kaggle for Shopee. Copy and edit model ensemble for baseline submission.
+- [x] **2.0 hrs** - HPA baseline approach and submission 
+- [x] **1.5 hrs** - HPA approach model selection research - understanding included datasets and models for team improvements
+- [x] **4.0 hrs** - Data Cleaning Course - Kaggle (Lessons 1-5, course completed)
+- [x] **4.0 hrs** - Natural Language Processing - Kaggle (Lessons 1-3, course completed)
+- [x] **1.0 hrs** - [Shopee - Price Match Guarantee](https://www.kaggle.com/c/shopee-product-matching) competition overview and discussion readings
+- [x] **1.5 hrs** - Examine current best approaches on Kaggle for Shopee. Copy and edit model ensemble for baseline submission.
+
+#### Week 13
+- [x] **1.5 hrs** - Kaggle Final Exam - setting up notebook and exploring dataset
+- [x] **4.0 hrs** - Kaggle Final Exam - testing different models and hyperparameter tuning. Now I am waiting for my Professor to post the competition so I can make some submissions.
+- [x] **1.0 hrs** - HPA code review
+- [x] **2.5 hrs** - Mask playground - trying different masks after reading [Python Mask Tutorial](https://towardsdatascience.com/the-concept-of-masks-in-python-50fd65e64707)
+- [x] **2.0 hrs** - HPA model adjustments using observations from other similar competitions
+- [x] **1.5 hrs** - HPA class presentation preparation
+- [x] **4.0 hrs** - Intermediate Machine Learning - Kaggle (Lessons 1-7, course completed)
