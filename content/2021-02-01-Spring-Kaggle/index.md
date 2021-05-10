@@ -82,3 +82,11 @@ I am excited to share my progress in this very exciting course taught by the one
 - [x] **2.0 hrs** - HPA model adjustments using observations from other similar competitions
 - [x] **1.5 hrs** - HPA class presentation preparation
 - [x] **4.0 hrs** - Intermediate Machine Learning - Kaggle (Lessons 1-7, course completed)
+
+#### Week 14 
+- [x] **2.5 hrs** - Kaggle Final Exam - testing and submitting three different approaches
+- [x] **1.0 hrs** - [AI Crowd Challenge](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) - overview and reading
+- [x] **2.0 hrs** - [AI Crowd Challenge Exploration](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge) - downloading and exploring the dataset
+- [x] **1.5 hrs** - self reflection on the semester and what I have learned in this course
+- [x] **1.0 hrs** - Kaggle Final Exam - Taking more time to improve my model, testing other sklearn models
+- [x] **2.5 hrs** - getting two approaches ready to submit tomorrow and win the competition!
